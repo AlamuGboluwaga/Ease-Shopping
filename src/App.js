@@ -4,7 +4,7 @@ import './styles/tailwind.css'
 
 const App=()=>{
   return (
-    <div className=" bg-light h-screen w-screen">
+    <div className="bg-light h-screen w-screen">
       <Router />
     </div>
   );
